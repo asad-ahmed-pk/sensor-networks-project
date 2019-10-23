@@ -5,10 +5,10 @@ import mysql.connector
 
 def connect_db():
     config = {
-    'user': 'root',
-    'password': '61f710c6',
-    'host': '127.0.0.1',
-    'database': 'sensor_network_db',
+    'user': 'user06',
+    'password': 'user06',
+    'host': '10.50.202.242',
+    'database': 'user06',
     'raise_on_warnings': True,
     }
 
